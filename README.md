@@ -4,3 +4,7 @@
 #### Currently, I am beginning to work on my A level coursework project, which will be a roguelike dungeon crawler game.
 #### I have lots of patience. I often work on personal art projects which can take a mimimum of 6 months to complete. Additionally I have good teamwork skills and enjoy working as a team, as it motivates me to complete the work to the best of my ability. 
 ### College work
+https://github.com/BHASVIC-CompSci/EllaJava/blob/main/README.md
+https://github.com/BHASVIC-CompSci/ellacoghlin24-Jack-hotelKashyyykSubroutines/blob/main/README.md
+https://github.com/BHASVIC-CompSci/ellacoghlin24-jack-pseudocodeChallenges
+https://github.com/BHASVIC-CompSci/animalopoly-BHASVIC-ellacoghlin24
